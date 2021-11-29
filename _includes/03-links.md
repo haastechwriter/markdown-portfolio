@@ -1,1 +1,1 @@
-https://www.linkedin.com/in/jonathan-haas/
+[linkedin] https://www.linkedin.com/in/jonathan-haas/
